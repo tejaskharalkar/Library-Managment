@@ -21,7 +21,8 @@ A simple library management system built with Flask, SQLAlchemy, and basic authe
 
 1. Clone the repository
 2. Install requirements with `pip install -r requirements.txt`
-3. Create a database (e.g., SQLite)
+3. Create a database (already provided as instance/library.db)
+4. Run the application with Python app.py
 
 *API Endpoints*
 
